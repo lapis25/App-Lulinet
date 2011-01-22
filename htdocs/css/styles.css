@@ -1,0 +1,59 @@
+@charset "UTF-8";
+body, h1 {
+  padding: 0;
+  margin: 0;
+  font-family: 'Droid Sans Mono', arial, serif;
+}
+
+body {
+  margin: 0;
+  background: black url("/images/fox-girl.jpg") no-repeat left top;
+  color: white;
+}
+
+a {
+  padding: 3px 0;
+  color: white;
+}
+a:link {
+  color:white;
+}
+a:visited {
+  color: lightgray;
+}
+a:hover {
+  text-decoration: none;
+}
+
+h1 {
+  margin-left:8px;
+}
+
+ul {
+  margin: 0 0 12px 40px;
+  padding: 0;
+}
+
+li {
+  line-height: 2em;
+  list-style-type: none;
+}
+
+div#description {
+  margin-left:8px;
+  font-size: 80%;
+}
+
+div#contents {
+  font-size: 0.8em;
+  margin-left: 380px;
+  padding-left: 8px;
+  background-color: black;
+  text-align: left;
+  width: 600px;
+}
+
+h3 {
+  font-size: 1em;
+  border-bottom: 1px solid white;
+}

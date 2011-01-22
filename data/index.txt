@@ -1,0 +1,41 @@
+<h2>lapis25/KOMORI Kazuki</h2>
+
+- [http://www.google.com/images?q=せんとくん:title=近影]
+
+* 所属
+- [http://kansai.pm.org/:title=Kansai Perl Mongers]
+
+* 略歴
+- 2008- SNSの開発やEC大手のグルメサイトの開発などを行う
+- 2007-2008 カレンダサービス・カレンダを中心としたSNSを開発
+- 2005-2007 ERPのフロントエンドをAjaxで開発
+- 2002-2005 個人事業主として請負開発
+- 2000-2002 デスクトップアプリケーションのQAエンジニア 
+- 1996-2000 就学中にサイト制作等の請負を始める（学校中退）
+- 1994 愛知県立春日井工業高等学校電子工学科卒業後，保育専門学校へ
+- 1975/11/29 愛知県に生まれ，育つ
+
+* 発表等
+- PHPerのためのPerl入門@[http://kansai.pm.org/cgi-bin/wiki.cgi?action=ID&b=0_k2-LV80JaTcFdmq7Tfdg:title=Kansai.pm#12] 2010-05-01 [http://www.slideshare.net/lapis25/kansaipm12:title=資料]
+- Strawberry Perlのススメ(LT)@[http://kansai.pm.org/cgi-bin/wiki.cgi?action=ID&b=c06NWfkal9lSVw_i8XlicA:title=Kansai.pm#11] 2009-03-22 [http://www.slideshare.net/lapis25/strawberry-perlkansaipm11-5352847:title=資料]
+- about Perl5.10@[http://kansai.pm.org/cgi-bin/wiki.cgi?action=ID&b=3BzzgWmO17W6Uz6KIYzf3A:title=Kansai.pm#9] 2008-05-31 [http://www.slideshare.net/lapis25/about-perl510:title=資料]
+- ExtJS@[http://kansai.pm.org/cgi-bin/wiki.cgi?action=ID&b=ZLi4nlBxzTtZhqkoUVhTwA:title=フレームワーク勉強会] 2008-01-26 [http://www.slideshare.net/lapis25/extjs:title=資料]
+- [http://kansai.pm.org/cgi-bin/wiki.cgi?action=ID&b=39odrxWrLoLApWY8Z1DtKA:title=Perlベストプラクティス勉強会0〜16] 2007-05-31〜2007-12-20
+- オブジェクト指向言語Perl@[http://kansai.pm.org/cgi-bin/wiki.cgi?action=ID&b=ma263Dt9J0hZ572jQSbpBQ:title=Kansai.pm#8] 2007-03-10 [http://www.slideshare.net/lapis25/perl-47997:title=資料]
+
+* スキル
+- Perl, Ruby, PHP, Javascript, Coldfusion
+- MySQL, PostgreSQL, Sybase
+
+* アカウント
+- [http://www.hatena.ne.jp/lapis25/:title=hatena id:lapis25]
+- [http://twitter.com/lapis25/:title=twitter@lapis25]
+- [http://github.com/lapis25/:title=github]
+- [http://www.facebook.com/lapis25:title=facebook.com/lapis25]
+
+* blog
+- [http://d.hatena.ne.jp/lapis25/:title=LAPISLAZULI HILL#Hatena] <a href="http://b.hatena.ne.jp/entrylist?url=http://d.hatena.ne.jp/lapis25/"><img src="http://b.hatena.ne.jp/bc/de/http://d.hatena.ne.jp/lapis25/" class="bcounter" alt="LAPISLAZULI HILL#Hatenaのはてなブックマーク数" title="LAPISLAZULI HILL#Hatenaのはてなブックマーク数"></a
+- [http://catalyst.g.hatena.ne.jp/lapis25/:title=LAPISLAZULI HILL#Catalyst] <a href="http://b.hatena.ne.jp/entrylist?url=http://catalyst.g.hatena.ne.jp/lapis25/"><img src="http://b.hatena.ne.jp/bc/de/http://catalyst.g.hatena.ne.jp/lapis25/" class="bcounter" alt="LAPISLAZULI HILL#Catalystのはてなブックマーク数" title="LAPISLAZULI HILL#Catalystのはてなブックマーク数"></a
+
+* コンタクト
+- lapis25 at gmail.com
