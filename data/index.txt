@@ -26,6 +26,7 @@
 * スキル
 - Perl, Ruby, PHP, Javascript, Coldfusion
 - MySQL, PostgreSQL, Sybase
+- Linux
 
 * アカウント
 - [http://www.hatena.ne.jp/lapis25/:title=hatena id:lapis25]
@@ -35,7 +36,11 @@
 
 * blog
 - [http://d.hatena.ne.jp/lapis25/:title=LAPISLAZULI HILL#Hatena] <a href="http://b.hatena.ne.jp/entrylist?url=http://d.hatena.ne.jp/lapis25/"><img src="http://b.hatena.ne.jp/bc/de/http://d.hatena.ne.jp/lapis25/" class="bcounter" alt="LAPISLAZULI HILL#Hatenaのはてなブックマーク数" title="LAPISLAZULI HILL#Hatenaのはてなブックマーク数"></a
-- [http://catalyst.g.hatena.ne.jp/lapis25/:title=LAPISLAZULI HILL#Catalyst] <a href="http://b.hatena.ne.jp/entrylist?url=http://catalyst.g.hatena.ne.jp/lapis25/"><img src="http://b.hatena.ne.jp/bc/de/http://catalyst.g.hatena.ne.jp/lapis25/" class="bcounter" alt="LAPISLAZULI HILL#Catalystのはてなブックマーク数" title="LAPISLAZULI HILL#Catalystのはてなブックマーク数"></a
+- [http://catalyst.g.hatena.ne.jp/lapis25/:title=LAPISLAZULI HILL#Catalyst] <a href="http://b.hatena.ne.jp/entrylist?url=http://catalyst.g.hatena.ne.jp/lapis25/"><img src="http://b.hatena.ne.jp/bc/de/http://catalyst.g.hatena.ne.jp/lapis25/" class="bcounter" alt="LAPISLAZULI HILL#Catalystのはてなブックマーク数" title="LAPISLAZULI HILL#Catalystのはてなブックマーク数"></a>
+
+* このサイト
+- nginx + plack + Xslate + Text::Xatena で作成
 
 * コンタクト
 - lapis25 at gmail.com
+
