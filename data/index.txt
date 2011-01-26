@@ -38,8 +38,13 @@
 - [http://d.hatena.ne.jp/lapis25/:title=LAPISLAZULI HILL#Hatena] <a href="http://b.hatena.ne.jp/entrylist?url=http://d.hatena.ne.jp/lapis25/"><img src="http://b.hatena.ne.jp/bc/de/http://d.hatena.ne.jp/lapis25/" class="bcounter" alt="LAPISLAZULI HILL#Hatenaのはてなブックマーク数" title="LAPISLAZULI HILL#Hatenaのはてなブックマーク数"></a
 - [http://catalyst.g.hatena.ne.jp/lapis25/:title=LAPISLAZULI HILL#Catalyst] <a href="http://b.hatena.ne.jp/entrylist?url=http://catalyst.g.hatena.ne.jp/lapis25/"><img src="http://b.hatena.ne.jp/bc/de/http://catalyst.g.hatena.ne.jp/lapis25/" class="bcounter" alt="LAPISLAZULI HILL#Catalystのはてなブックマーク数" title="LAPISLAZULI HILL#Catalystのはてなブックマーク数"></a>
 
+* 運営サイト
+- [http://nanpei.info/:title=Knowledge of NANPEI YAMADA] 漫画家山田南平氏データサイト(更新停滞中)
+- [http://shera.jp/:title=Shera's Adventures in Vana'diel] FF11 playlog(更新停滞中)
+
 * このサイト
 - nginx + plack + Xslate + Text::Xatena で作成
+- ソースコード [https://github.com/lapis25/App-Lulinet]
 
 * コンタクト
 - lapis25 at gmail.com
