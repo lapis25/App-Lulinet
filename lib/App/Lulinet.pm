@@ -74,9 +74,9 @@ __DATA__
 <html>
 <head>
   <meta charset=UTF-8>
-   <link rel="shortcut icon" href="/images/lapis25-fox-face.jpg">
+   <link rel="shortcut icon" href="/static/images/lapis25-fox-face.jpg">
   <link href='http://fonts.googleapis.com/css?family=Droid+Sans+Mono&subset=latin' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="/css/styles.css" type="text/css">
+  <link rel="stylesheet" href="/static/css/styles.css" type="text/css">
   <title><: $title :></title>
 </head>
 <body>

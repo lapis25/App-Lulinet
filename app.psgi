@@ -12,7 +12,7 @@ my $app = sub { App::Lulinet::handler($_[0]) };
 
 builder {
     enable "Static",
-        path => qr{^/(images|js|css)},
+        path => qr{^/(static/)},
         root => './htdocs/';
     enable "ReverseProxy";
     $app;
